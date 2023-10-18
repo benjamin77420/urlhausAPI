@@ -9,7 +9,7 @@ collecting and tracking and sharing of malware URLs, helping network
 administrators and security analysts to protect their network and customers
 from cyber threats.
 
-options:
+options:\n
   -h, --help          		 show this help message and exit
   -G, --getRequest	       create a get request to the API
   -P, --postRequest   	   create a post request to the API
