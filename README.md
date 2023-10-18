@@ -1,4 +1,4 @@
-`#`Options and usage`#`
+<h1>Options and usage</h1>
 
 usage: main.py [-h] [-G] [-P] [-V] [-L] [--url] [--sha256] [--urlId]
                   [--host] [--payloadmd5] [--payloadsha256] [--tag]
