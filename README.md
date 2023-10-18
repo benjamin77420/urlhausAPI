@@ -11,19 +11,19 @@ from cyber threats.
 
 options:
   -h, --help          		 show this help message and exit
-  -G, --getRequest	 create a get request to the API
-  -P, --postRequest   	 create a post request to the API
-  -V, --version        	show program's version number and exit
-  -L, --limit         		Used to limit the number of entries received by the API
-                       		call, example "-L 3" OR "-limit 3"
-  --url                		the url that the user wants to query
-  --sha256             	the hash of the payload that you want to download
-  --urlId              		the ID of the url that is queried
-  --host               		the name of the queried host
-  --payloadmd5         	the md5 hash of the payload that is queried
-  --payloadsha256      	the sha256 hash of the payload that is queried
-  --tag                		the tag of the database entry that was searched
-  --signature          	the signature that will be used to query the API
+  -G, --getRequest	       create a get request to the API
+  -P, --postRequest   	   create a post request to the API
+  -V, --version        	   show program's version number and exit
+  -L, --limit         		 Used to limit the number of entries received by the API
+                       		 call, example "-L 3" OR "-limit 3"
+  --url                		 the url that the user wants to query
+  --sha256             	   the hash of the payload that you want to download
+  --urlId              		 the ID of the url that is queried
+  --host               		 the name of the queried host
+  --payloadmd5         	   the md5 hash of the payload that is queried
+  --payloadsha256      	   the sha256 hash of the payload that is queried
+  --tag                		 the tag of the database entry that was searched
+  --signature          	   the signature that will be used to query the API
 
 
 
