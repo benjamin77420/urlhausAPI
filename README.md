@@ -10,7 +10,7 @@ administrators and security analysts to protect their network and customers
 from cyber threats.
 
 options:  
-  -h, --help          		 show this help message and exit  
+  -h, --help emsp           		 show this help message and exit  
   -G, --getRequest	       create a get request to the API  
   -P, --postRequest   	   create a post request to the API  
   -V, --version        	   show program's version number and exit  
